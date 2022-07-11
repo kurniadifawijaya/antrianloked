@@ -8,6 +8,10 @@
 
 **membuat sistem antrian loket**
 
-1  membuat http://localhost/phpmyadmin dengan jumlah 3 tabel
+**1** langakah awal yang harus di lakukan
 
-![localhost php my admin](1.jpeg)
+![memindahkan data menjadi satu](capture.PNG)
+
+**2** membuat http://localhost/phpmyadmin dengan jumlah 3 tabel
+
+![localhost php my admin](capture2.PNG)
